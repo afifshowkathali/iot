@@ -6,7 +6,7 @@ This repository contains the [System.Device.Gpio](https://www.nuget.org/packages
 
 The repository also contains [Iot.Device.Bindings](https://www.nuget.org/packages/Iot.Device.Bindings), a growing set of community-maintained [device bindings](src/devices/README.md) for IoT components.
 
-**NOTE**: This repository is still in experimental stage and all APIs are subject to changes.
+**NOTE**: This repository is still in an experimental stage and all APIs are subject to changes.
 
 # How to Install
 
@@ -34,7 +34,7 @@ Please contribute. We are primarily interested in the following:
 
 * Improving quality and capability of the drivers for supported boards.
 * Implementations for additional boards.
-* [.NET device bindings](src/devices) for a wide variety of sensors, chips, displays and other components.
+* [.NET device bindings](src/devices) for a wide variety of sensors, chips, displays, and other components.
 * Request a device binding or protocol that you need for your project ([file an issue](https://github.com/dotnet/iot/issues)).
 * Links to blog posts or tweets that showcase .NET Core being used for great IoT scenarios ([file an issue](https://github.com/dotnet/iot/issues)).
 
